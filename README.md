@@ -1,4 +1,4 @@
-# Taste AI – Swiggy MCP POC
+# restraut_chat_bot_taste_recopmendation V1 – Swiggy MCP POC
 
 # Overview
 
